@@ -122,6 +122,7 @@ if(valijson_BUILD_TESTS)
         tests/test_rapidjson_adapter.cpp
         tests/test_picojson_adapter.cpp
         tests/test_poly_constraint.cpp
+        tests/test_document_loading.cpp
         tests/test_validation_errors.cpp
         tests/test_validator.cpp
         tests/test_yaml_cpp_adapter.cpp
